@@ -15,8 +15,8 @@ int main()
     cout << "Nhap lai suat theo nam: ";
     cin >> Ls;
    
-    Stkv/Stbd = a;
-    1+Ls = b;
+    a=Stkv/Stbd;
+    b=1+Ls;
     Kq = log(a)/log(b);
     
     cout<<"can so nam la: " << Kq << endl;
